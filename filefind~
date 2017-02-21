@@ -1,0 +1,2 @@
+du -a /* | grep -i $1.* 
+sh filefind > output 
